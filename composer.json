@@ -1,0 +1,21 @@
+{
+    "name": "gabri/system_php",
+    "authors": [
+        {
+            "name": "Gabriel",
+            "email": "gabrielcomputacao@outlook.com"
+        }
+    ],
+    "require": {
+        "league/plates": "^3.6",
+        "symfony/var-dumper": "^7.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "app\\": "app"
+        },
+        "files": [
+            
+        ]
+    }
+}
